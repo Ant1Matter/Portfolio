@@ -1,2 +1,0 @@
-# portfolio
- I hate github
